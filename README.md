@@ -140,10 +140,9 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 **Pooja Kumar**
-MCA Student | Full Stack Developer
 GitHub: [https://github.com/poojakumar]
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is for academic purpose and practice.
