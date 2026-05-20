@@ -140,7 +140,7 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 **Pooja Kumar**
-GitHub: [https://github.com/poojakumar]
+GitHub: [https://github.com/poojakumar2004]
 ---
 
 ## 📄 License
