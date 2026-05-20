@@ -49,7 +49,7 @@ Smart Lead Dashboard/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/smart-leads-dashboard.git
+git clone (https://github.com/poojakumar2004/Smart-Lead-Dashboard)
 cd smart-leads-dashboard
 ````
 
